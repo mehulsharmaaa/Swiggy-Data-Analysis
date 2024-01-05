@@ -8,5 +8,11 @@ Analyzing Swiggy's Dataset to find out solutions to given problem statements;
 * Top 5 most popular restaurant chains in India?
 * Which restaurant in Banglore has the most number of people visited(take a number of reviews for reference)?
 
+DERIVED INSIGHTS FROM DATA:
+
+![Screenshot (288)](https://github.com/mehulsharmaaa/Swiggy-Data-Analysis/assets/85808451/adfb0003-97ff-475e-b40e-9c811a2b2606)
+
+
 VISUALISATON (USING EXCEL):
+
 ![Screenshot (287)](https://github.com/mehulsharmaaa/Swiggy-Data-Analysis/assets/85808451/8740caeb-364e-4e5d-a324-e4908b46aa4c)
