@@ -6,7 +6,7 @@ Analyzing Swiggy's Dataset to find out solutions to given problem statements;
 * Top 10 cities as per the number of restaurants listed?
 * Which city is having the least expensive restaurant in terms of cost?
 * Top 5 most popular restaurant chains in India?
-* Which restaurant in Banglore has the most number of people visited(take a number of reviews for reference)?
+* Which restaurant in Banglore has the most number of people visited(take a number of reviews for reference?
 
 DERIVED INSIGHTS FROM RAW DATA & CLEAN DATA:
 * Did my analysis on raw data aswell just to show the importance of cleaning process
