@@ -9,7 +9,7 @@ Analyzing Swiggy's Dataset to find out solutions to given problem statements;
 * Which restaurant in Banglore has the most number of people visited(take a number of reviews for reference?
 
 DERIVED INSIGHTS FROM RAW DATA & CLEAN DATA:
-* Did my analysis on raw data aswell just to show the importance of cleaning process
+(NOTE: Did my analysis on raw data aswell just to show the importance of cleaning process)
 
 ![Screenshot (288)](https://github.com/mehulsharmaaa/Swiggy-Data-Analysis/assets/85808451/adfb0003-97ff-475e-b40e-9c811a2b2606)
 
